@@ -23,7 +23,7 @@
 I'm a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 - :telescope: I’m looking for a job as a Python Developer.
 
-- :coffee: In my free time, I read tech books and articles.
+- :coffee: In my free time, I read tech books, articles and study English.
 
 - :memo:How to reach me: [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/JaneEvg)
 ---
